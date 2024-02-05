@@ -1,6 +1,9 @@
-# World Bank Data Visualization Project 🌍📊
+<img width="1309" alt="Screenshot 2024-02-05 at 11 16 53 AM" src="https://github.com/Adityaabhiram315/World-Bank-Data-Visualisation/assets/95640107/1fb47e8d-7bf4-4ff9-bc69-0f98bfa73924"># World Bank Data Visualization Project 🌍📊
 
 Explore the fascinating world of data visualization with Python in this World Bank Data project! 🚀 Utilizing powerful libraries like Matplotlib, Seaborn, and Plotly, the goal is to create visually engaging and informative plots, graphs, and charts based on a provided dataset.
+![![banking image](https://github.com/Adityaabhiram315/World-Bank-Data-Visualisation/assets/95640107/60595dae-511a-4adf-a432-535d02c35c69)
+<img width="1309" alt="Screenshot 2024-02-05 at 11 16 53 AM" src="https://github.com/Adityaabhiram315/World-Bank-Data-Visualisation/assets/95640107/0f38934c-68fd-498c-ae42-59ada7b8dd38">
+
 
 ## Project Highlights 🌟
 
